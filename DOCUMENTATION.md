@@ -440,7 +440,7 @@ Faced a choice between shared Elasticsearch indices (with tenant routing) versus
 
 ## 4. AI Tool Usage
 
-This project was developed with the assistance of Claude (Anthropic). AI was used for:
+
 
 - **Architecture scaffolding**: Generating the initial project structure and boilerplate code for FastAPI, middleware, and service layers
 - **Best practice validation**: Reviewing Elasticsearch mapping design, cache invalidation strategy, and rate limiting approaches
